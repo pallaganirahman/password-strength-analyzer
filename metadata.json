@@ -1,0 +1,6 @@
+{
+  "name": "Password Strength Analyzer",
+  "description": "An interactive, cryptographic playground and analyzer for evaluating password strength, learning hashing/salting, and discovering cybersecurity concepts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
